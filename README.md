@@ -11,7 +11,7 @@ English description：After starting the web service, input the URL link, and yo
 ## 接口参数
 程序启动后，将在端口52001上启动HTTP服务。您仅需向此服务接口发送GET请求即可开始使用。接口地址为http://localhost:52001/render，您需要携带以下参数：
 url（需进行URL编码）
-format（可选为png或pdf），您将获得类似以下格式的链接：http://localhost:52001/render?format=png&url=https%3a%2f%2fbujia.tyxxtb.com%2ffdd%2flsign%3ftravel_code%3d5202085520250116153732%26contact_phone%3d85cae7b39d1c66faa5f6d47e030b50a3
+format（可选为png或pdf），您将获得类似以下格式的链接：http://localhost:52001/render?format=png&url=https//www.baidu.com
 的链接。
 
 
